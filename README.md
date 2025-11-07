@@ -1,16 +1,25 @@
-## Hi there 👋
+<img width="80%" alt="80%" src="https://github.com/user-attachments/assets/10d3a383-8c93-4d39-898c-da61472a988a" />
 
-<!--
-**iBenjaah/iBenjaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Destacados
 
-Here are some ideas to get you started:
+- `C++`
+- `Python`
+- `java`
+- `JavaScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Un poco sobre mi...
+Estudiante Universitario de Ingenieria Civil en Computacion \
+Desarrollador Junior 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iBenjaah&theme=slateorange&locale=es)](https://git.io/streak-stats)
+
+## 🔗 Links
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamín-canto-campos-708173321)
+
+
+
+
